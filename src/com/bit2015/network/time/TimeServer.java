@@ -5,6 +5,8 @@ import java.util.Date;
 
 public class TimeServer {
 
+	private static final int PORT = 22222;
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
